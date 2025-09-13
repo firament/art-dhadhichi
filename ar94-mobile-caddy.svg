@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
+   sodipodi:docname="ar94-mobile-caddy.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showguides="true"
+     inkscape:zoom="1"
+     inkscape:cx="525"
+     inkscape:cy="316"
+     inkscape:window-width="1920"
+     inkscape:window-height="1056"
+     inkscape:window-x="1280"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <rect
+       x="302.72508"
+       y="116.82246"
+       width="173.36866"
+       height="29.683615"
+       id="rect6" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect2"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <rect
+       x="302.72508"
+       y="116.82246"
+       width="159.69142"
+       height="39.610376"
+       id="rect7" />
+    <rect
+       x="302.72508"
+       y="116.82246"
+       width="181.9872"
+       height="43.121423"
+       id="rect8" />
+    <rect
+       x="302.72508"
+       y="116.82246"
+       width="159.69142"
+       height="39.610376"
+       id="rect9" />
+    <rect
+       x="302.72508"
+       y="116.82246"
+       width="708.38506"
+       height="36.697757"
+       id="rect10" />
+    <rect
+       x="302.72508"
+       y="116.82246"
+       width="181.9872"
+       height="43.121423"
+       id="rect11" />
+    <rect
+       x="302.72508"
+       y="116.82246"
+       width="181.9872"
+       height="43.121423"
+       id="rect12" />
+    <rect
+       x="302.72508"
+       y="116.82246"
+       width="979.44526"
+       height="61.043973"
+       id="rect13" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <a
+       id="a1"
+       transform="translate(-3.772154,60)">
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:0.264583;-inkscape-stroke:hairline"
+         d="M 253.77215,70 V 50 h -13 v 10 h -12 V 50 h -5 v 5 h -3 v -5 h -5 v 10 h -12 V 50 h -5 v 5 h -3 v -5 h -5 v 10 h -12 V 55 50 L 162.38608,55 163,60 h -3 l -1.22785,-10 -16.48371,5 0.80919,5 H 140 L 138.77215,50 122.38608,55 123,60 h -3 L 118.77215,50 102.38608,55 103,60 h -3 L 98.772154,50 82.386077,55 83,60 H 80 L 78.772154,50 62.386077,55 63,60 H 60 L 58.772154,50 42.386077,55 43,60 H 40 L 38.772154,50 h -5 v 20 z"
+         id="path1"
+         sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+    </a>
+    <g
+       id="g3"
+       transform="matrix(1.0000018,0,0,1,69.999952,-60)">
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:0.264583;-inkscape-stroke:hairline"
+         d="m 30,100 v 45 h 4.992805 V 135 H 38 v 10 h 14 v -10 h 3 v 10 h 5 v -45 z"
+         id="path2"
+         sodipodi:nodetypes="ccccccccccccc" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:0.264583;-inkscape-stroke:hairline"
+         d="m 35,105 h 20 v 20 H 35 Z"
+         id="path3"
+         sodipodi:nodetypes="ccccc" />
+    </g>
+    <path
+       style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:0.264583;-inkscape-stroke:hairline"
+       d="m 30,40 v 15 h 4.9928 V 45 H 38 V 55 H 52 V 45 h 3 v 10 h 5 V 40 Z"
+       id="path4"
+       sodipodi:nodetypes="ccccccccccccc" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-50.677696,68.473506)"
+       id="text7"
+       style="font-size:21.3333px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Normal';white-space:pre;shape-inside:url(#rect7);display:inline;vector-effect:non-scaling-stroke;fill:#0000fb;fill-opacity:1;stroke:none;-inkscape-stroke:hairline"><tspan
+         x="302.72461"
+         y="135.4889"
+         id="tspan7">hq5m</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458382,0,0,0.26458333,19.547932,-1.572807)"
+       id="text8"
+       style="font-size:21.3333px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Normal';white-space:pre;shape-inside:url(#rect8);display:inline;vector-effect:non-scaling-stroke;fill:#0000fb;fill-opacity:1;stroke:none;-inkscape-stroke:hairline"><tspan
+         x="302.72461"
+         y="135.4889"
+         id="tspan8">yl6m</tspan></text>
+    <a
+       id="a8"
+       transform="translate(-3.772154,110)">
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:0.264583;-inkscape-stroke:hairline"
+         d="M 168.77215,70 V 55 l 0,-5 h -3 -5 v 10 h -12 V 50 h -5 v 5 h -3 v -5 h -5 v 10 h -12 V 55 50 L 107.38608,55 108,60 h -3 l -1.22785,-10 -16.48371,5 0.80919,5 H 85 L 83.77215,50 67.38608,55 68,60 H 65 L 63.77215,50 47.38608,55 48,60 H 45 L 43.772154,50 h -7 -3 v 5 15 z"
+         id="path8"
+         sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccc" />
+    </a>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-50.660329,118.62692)"
+       id="text9"
+       style="font-size:21.3333px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Normal';white-space:pre;shape-inside:url(#rect9);display:inline;vector-effect:non-scaling-stroke;fill:#0000fb;fill-opacity:1;stroke:none;-inkscape-stroke:hairline"><tspan
+         x="302.72461"
+         y="135.4889"
+         id="tspan9">79pi</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458382,0,0,0.26458333,-52.049455,-1.1279452)"
+       id="text11"
+       style="font-size:21.3333px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Normal';white-space:pre;shape-inside:url(#rect12);display:inline;vector-effect:non-scaling-stroke;fill:#0000fb;fill-opacity:1;stroke:none;-inkscape-stroke:hairline"><tspan
+         x="302.72461"
+         y="135.4889"
+         id="tspan10">lpe1</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458382,0,0,0.26458333,-55.128677,-20.071397)"
+       id="text12"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.3333px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect13);display:inline;vector-effect:non-scaling-stroke;fill:#0000fb;fill-opacity:1;stroke:none;-inkscape-stroke:hairline"><tspan
+         x="302.72461"
+         y="149.4889"
+         id="tspan12"><tspan
+           style="fill:none;stroke:#000000"
+           id="tspan11">Mobile + Headset Caddy (3mm sheet)</tspan></tspan></text>
+  </g>
+</svg>

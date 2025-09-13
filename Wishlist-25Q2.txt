@@ -1,0 +1,288 @@
+# 2025 Q2 Wishlist
+> Last updated: 2025-08-10 13:13:26
+
+1. Sanding board
+    - Count = 1
+    - 230 x 90mm + 15 x 90mm, T >=10mm
+    - Durability and warp resistance are priority
+
+2. Cabinet
+    - 1 <= Count <= 2 
+    - Objectives
+        - Fit under the work table
+        - Door open knob on left, to open with right hand when under the table
+            - **IDEA:** Door also on back side, with knob on right. For use when cabinet on left of chair
+        - Tray Gaps 50 <= G <= 200
+        - Dust protection
+        - Organize, items by usage
+        - Upper tray gaps will be shorter, and lower tray gaps will be taller
+        - Extra trays can be stacked in one slot
+        - Avoid random fiddling by visitors
+        - Security NOT a design consideration
+        - Durability NOT a major consideration, Usage can drive design iterations
+        - **OPTIONAL:** Hidden magnetic lock
+    - Dimensions
+        - 310 <= W <= 380, 
+        - 450 <= D <= 520mm,  
+        - H <=630mm Total, including feet and rubber shoes (about 2mm)
+        - Trays H <=100mm, Horizontal slots
+        - Feet 20 <= Height <= 40 mm
+            - To avoid dust and moisture from floor
+    - High effort and precision
+    - **TBD:** Material and Design of tray
+
+3. Sewing Table
+    - Count = 1
+    - https://www.instagram.com/reel/DFcikAsshX4/?igsh=MWlpMGc0NG42cnZ6Nw==
+    - Sewing machine Dimensions, in Inches
+        - W x D x H = 15 x 6 x 11 inches
+    - Table height, from floor to table surface
+        - 29 <= H <= 31 inches
+    - Very High effort and precision
+
+4. Document Box, Model 1
+    - 2 <= Count <= 5
+    - W x D x H mm
+    - 320 x 225 x 60 <= H <= 80
+    - Objectives
+        - A4 in envelopes (297x210 in ?x?)
+        - Store frequently accessed documents in single location
+        - Protect from moisture, dust and creases
+        - Organized in one place
+        - Stored in one location, NOT used for travelling with
+        - Security NOT a consideration
+    - Has high potential for me-too give-aways, specially shool goers
+    - Lid and box are straight joints, others are tenon joints
+    - Strips x2, fixed on inner surface of lid, to keep body and lid aligned
+        - Count = 2, 10 x  D - (2 x sheet thickness) mm
+    - Laser, Plywood, 2 <= Thickness <= 8 mm
+    - **TBD:** Calculate offsets for hinges
+    - **TBD:** Source or design hinges
+
+5. Document Box, Model 2
+    - 1 <= Count <= 2
+    - W x D x H mm
+    - 400 x 300 x 100 <= H <= 120
+    - Objectives
+        - Same as for Model 1
+    - Lid and box are straight joints, others are tenon joints
+    - Strips x2, fixed on inner surface of lid, to keep body and lid aligned
+        - Count = , 10 x  D - (2 x sheet thickness) mm
+    - Laser, Plywood, 2 <= Thickness <= 8 mm
+    - **TBD:** Calculate offsets for hinges
+    - **TBD:** Source or design hinges
+
+6. Mobile Caddy (parking stand)
+    - 2 <= Count <= 4
+    - See ar94-mobile-caddy.svg. Designs lpe1, hq5m, yl6m and 79pi
+        - Small:
+            - 79pi x2
+            - lpe1 x1
+            - yl6m x4
+        - Large: (For future)
+            - hq5m x2
+            - lpe1 x2
+            - yl6m x7
+    - To park all mobile devices in one location
+    - Minimal footprint, for many devices, typically 8
+        - 5 mobiles + 4 headsets
+    - Small feet on 4 corners, for stability on slightly uneven surface. 5 <= H <= 10 mm.
+    - Taller backs for mobiles, shorter for Headsets
+    - Duplicate count of headset backs with Mobile backs, to leverage space
+        - or make 2, one for mobiles with 7 slots and one for headsets with 4 slots
+    - Laser, Plywood, 2 <= Thickness <= 7 mm
+
+7. Headset stand
+    - 5 <= Count <= 10
+    - Higher count to account for breakages and give-aways
+    - See aina.svg, design ngbg
+    - Objectives
+        - Enhance headset visibility to avoid accidents
+        - Compact, to carry in pocket when travelling
+        - Stored inside a small envelope
+        - Small footprint on table surface
+        - Serve as a mobile stand for lounge meetings
+        - Minimize cost, travel usage will shorten life
+        - Plywwod with grain is good for looks, Acrylic is lighter
+        - Reducing Bulk and Weight take priority
+        - **TBD:** Apply branding?
+    - Laser, Acrylic/Plywood, 1 <= Thickness <= 3 mm
+    - With minimum possible kerf
+
+8. HDD Casing Caddy
+    - Count = 1
+    - Dimensions (W x D mm) 85 x 85 mm
+    - Height as needed for 6 slots, + 2 mm for padding
+        - 20 <= H <= 30 mm
+    - Casing Dimensions (D x W x H mm) 125 x 80 x 15
+    - Small portion of casing (length) will hang outside for easy extract and insert
+    - Legs on 4 corners, H>=5mm
+    - Laser, Acrylic/Plywood, 3 <= Thickness <= 7 mm
+    - **TBD:** Review WxD for standing stability
+
+9.  Steamer Trunk (Novelty)
+    - 1 <= Count <= 5
+    - Laser, Plywood, 2 <= Thickness <= 4 mm
+    - Objectives
+        - Novelty item, show-off
+        - Showpiece of posibilities
+        - Replicate grandfathers trunk
+        - Functional with 1920s look and feel
+        - Testbed for Hinge designs, possibiliy
+        - Preferred, Dark background with prominent grain
+    - Dimensions (W x D x H mm)
+        - Body 100 x 60 x 45
+        - Lid  100 x 60 x 10
+        - Feet 2 <= H <= 5 mm, 
+            - Extend side panel's corner tabs
+            - Additional from body dimensions
+        - Strip, fixed on 2 inner sides to keep body and lid aligned
+            - Count = 2, 60 x 5 <= W <= 25 mm
+    - Hinges and latches made from cloth, wire, shrink tube and 743
+    - **TBD:** Review dimension ratios
+    - **TBD:** Source or design hinges
+    - **TBD:** Calculate offsets for hinges
+
+10. Ad-Hoc tables
+    - 2 <= Count <= 4
+    - Objectives
+        - Temporary work tables, sufficient for a laptop, mouse, mobile and tea cup
+        - Setup as needed for work. Addl projects or Guests
+        - Store easily, with minimal space consumption
+        - Collapsible. Hinged preferred, knock-down are acceptable
+        - Not needed for strength, will not be dragged or pushed
+        - Overall weight as low as possible
+        - Expected load on surface <= 5kg
+    - Dimensions (W x D x H mm)
+        - 800 <= W <= 920
+        - 350<= D <= 450 
+        - 750 <= H <= 800
+    - High effort and precision
+
+11. **WIP:** Travel Utility
+    - 1 <= Count <= 2
+    - Laser, Plywood, 2 <= Thickness <= 4 mm
+        - Acrylic (plan B) 1 <= Thickness <= 3 mm
+    - Contents
+        1.  Charger 1: 80x65x30 mm
+        2.  Charger 2: 78x64x30 mm
+        3.  Mouse: 110x60x30 mm
+        4.  Headset: 116x65x25 mm
+        5.  Cables USB C-C x3 (1 long, 2 normal)
+        6.  Cables USB A-C x2
+        7.  Cables USB A-B x2
+        8.  Headset, backup
+        9.  Optionals:
+            1. Powerbank: 145x65x25 mm
+            2. USB Hub (Not yet present)
+    - **TBD:** Plan layout of contents to determine internal compartments
+    - **TBD:** Select liner, to account for inner dimensions
+    - **Thoughts:**
+        - Tiny slabs as runners vs slots in sides, 3~5 mm wide
+        - Cross runners, if cross partitions needed
+        - Hard fix as many as possible, to minimize slots
+            - Most items to be carried are known
+    - High precision needed in assembly
+    - Paper boxes to visualize layout
+
+    |  S# |   D |   W |   H |   M |   L | B   |     |   1 |   2 |   3 |   4 |   5 |     |   A |   B |   C |
+    |:---:| ---:| ---:| ---:| ---:| ---:| --- | --- | ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:|
+    |  1  |  60 |  50 |  40 |   0 | 140 | 130 |     |   0 |  40 | 100 | 140 | 140 |     |  40 |  90 | 130 |
+    |  2  |  80 |  65 |  30 |  10 | 160 | 125 |     |  10 |  40 | 120 | 150 | 160 |     |  30 |  95 | 125 |
+    |  3  | 110 |  60 |  30 |  10 | 190 | 120 |     |  10 |  40 | 150 | 180 | 190 |     |  30 |  90 | 120 |
+    |  4  | 115 |  65 |  25 |  10 | 185 | 115 |     |  10 |  35 | 150 | 175 | 185 |     |  25 |  90 | 115 |
+    | 9.1 | 145 |  65 |  25 |  10 | 215 | 115 |     |  10 |  35 | 180 | 205 | 215 |     |  25 |  90 | 115 |
+
+12. Strips
+    - Laser, Plywood, 2 <= Thickness <= 4 mm
+        - Acrylic (plan B) 1 <= Thickness <= 3 mm
+    - For quick folds in paper boxes
+        - show demo
+    - Count = 2 each
+    - Dimensions (L x B mm)
+        - 150 x 15
+        - 150 x 20
+        - 150 x 25
+
+13. Panels
+    - Plywood, or pine slabs
+        - 10 <= Thickness <= 30 mm
+        - Moisture resistance preferred
+        - Looks are not a consideration, rustic look preferred
+    - For use as floating shelves and as ad-hoc tabletop
+    - Weight is a consideration for floating shelves
+    - Dimensions (D x W inches)
+        1. Count = 4, 
+            - ~14 x ~20 inches
+            - Holes at 4 corners, 5~12 mm dia, >20 mm from edges
+            - Appx Load per panel 3 Kgs
+        2. Count = 4, 
+            - ~4 x 8 <= W <= 10 inches
+            - Holes at 4 corners, 5~12 mm dia, >20 mm from edges
+            - Appx load per panel, 500 gms
+        3. Count = 2, 
+            - 20 x 24 <= W <= 30 inches
+            - Ad-hoc tabletop, no holes needed
+***
+
+
+## Working Notes
+
+
+### Usability trails
+- Fab trails, for Power and Kerf settings
+    - bcnz-PowerKerfTrails-v01.svg
+    - bfq7-PowerKerfTrails-v02.svg
+- Sliding lids, trail only
+    - bj9w-box-R100-v01.svg
+- Hinged lid, usable, trail
+    - bng5-HingeBox-Envelope-v01.svg
+
+### Novelties:
+1. Wood:
+    - Blocks 4 <= Count <=10,  L x W x H = ~50 x ~40 x 12 <= H <= 40 mm
+        - **Idea:** Make from 2mm plywood as box using laser?
+        - Add branding?
+        - 2 <= H <= 5 mm legs??
+    - 2 pin extensions, with compact hobs
+        - Flat Plug and Round Holder
+        - Round Plug and Round Holder
+
+2. Laser:
+
+    - Led lamp stick
+        - Plywood tube
+        - Slits as design
+        - Bottom cap to mount regulator and LED, with ventilation holes
+        - Legs for airflow
+        - IDEA: 
+            - put regulator and battery in cabinet, with airflow slits on all 4 sides
+            - Mount tube on top
+            - Switch in front of tube
+            - Acrylic slab for indicators
+        - Itr 2:
+            - 2 Columns, 1 from upstream and 1 from downstream
+            - 1 x 2 pole switch or 2 x 1 pole switch
+            - Switch between 2 cols and on front edge
+
+    - Note press 
+        - W > 65, L > 150, 30 <= H <=50 mm 
+        - No legs, avoid warping of bottom due to weight
+        - Block: Close fit, as heavy as possible
+
+    - Battery holder
+        - 18650 x2 series
+        - 18650 x2 parallel
+        - 18650 x3 series
+        - Die for contact point
+            - Bump in nickel strip for reliable contact
+            - 4<=6 mm dia, prefer flat
+            - Dowel and Anvil - Wood or Metal?
+        - **TBD:** Pressure contact design
+
+    - Cable holder
+        - See ao0e.svg, design qrvo
+        - Typical dia ~4 mm
+        - Acrylic or Plywood
+
+***

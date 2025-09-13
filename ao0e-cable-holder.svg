@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
+   sodipodi:docname="ao0e-cable-holder.svg"
+   inkscape:export-filename="../../../../home/fsap/Documents/Prints/ao0e-cable-holder.pdf"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showguides="true"
+     inkscape:zoom="0.49953305"
+     inkscape:cx="590.55152"
+     inkscape:cy="487.45524"
+     inkscape:window-width="1280"
+     inkscape:window-height="751"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="qrvo"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:0.264583;-inkscape-stroke:hairline"
+       d="M 184.99979,100 H 25.000208 V 70 h 9.999583 l 5.000417,2 v 12 h 4 V 72 l 6,-2 h 9.999583 l 6,2 v 12 h 4 V 72 l 5,-2 h 10 l 5,2 v 12 h 4 V 72 l 6,-2 h 9.999999 l 5,2 v 12 h 4 V 72 l 6,-2 h 10 l 5,2 v 12 h 4 V 72 l 6,-2 h 10 l 4.84702,2.105159 0.30596,11.800706 3.84702,0.18827 V 71.894841 l 6,-1.894841 h 10 z"
+       id="path1"
+       sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccc"
+       inkscape:label="version02" />
+    <path
+       style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:0.264583;-inkscape-stroke:hairline"
+       d="M 182.61942,60 H 27.619417 V 30 h 10 l 5,2 v 12 h 4 V 32 l 6,-2 H 67.619 l 5.000417,2 v 12 h 4 V 32 l 6,-2 h 15 l 5.000003,2 v 12 h 4 V 32 l 6,-2 h 15 l 5,2 v 12 h 4 V 32 l 6,-2 h 15 l 5,2 v 12 h 4 V 32 l 6,-2 h 10 z"
+       id="path8"
+       sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccc"
+       inkscape:label="version01" />
+  </g>
+</svg>
